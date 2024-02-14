@@ -19,5 +19,11 @@
   "workbench.view.alwaysShowHeaderActions": true,
   "files.associations": {
     "*.js": "html"
-  }
+  },
+  "editor.guides.bracketPairs": true,
+  "editor.wordWrap": "on",
+  "workbench.colorCustomizations": {
+
+  },
+  "workbench.iconTheme": "material-icon-theme"
 }
